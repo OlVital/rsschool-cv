@@ -1,2 +1,2 @@
 # rsschool-cv
-https://olvital.github.io/rsschool-cv/cv
+https://olvital.github.io/rsschool-cv/
